@@ -6,6 +6,4 @@ This is a power bi dashboard for Olist Ecommerce. This portfolio is mainly to st
 
 ## 2. Marketing Campaign Analysis
 This is a power bi dashboard for A Marketing Campaign event. This portfolio is to showcase the efficacy of various marketing campaigns and the performance of product groups and platforms.
-![image](https://github.com/ktoh-repo/da-powerbi/assets/167388341/f104d3c6-27e1-4fd8-a3ea-ae4341847f28)
-
-
+  <span><img src="https://github.com/ktoh-repo/da-powerbi/assets/167388341/f104d3c6-27e1-4fd8-a3ea-ae4341847f28" alt="drawing" width="400"/></span>

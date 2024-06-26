@@ -8,3 +8,7 @@ This is a power bi dashboard for Olist Ecommerce. This portfolio is mainly to st
 ## 2. Marketing Campaign Analysis
 This is a power bi dashboard for A Marketing Campaign event. This portfolio is to showcase the efficacy of various marketing campaigns and the performance of product groups and platforms. <br><br>
 <img src="https://github.com/ktoh-repo/da-powerbi/assets/167388341/f104d3c6-27e1-4fd8-a3ea-ae4341847f28" alt="drawing" width="400"/>
+
+## 3. Hotel Booking (Resort Hotel vs City Hotel) Analysis
+This is a power bi dashboard for Resort Hotel and City Hotel hotel booking analysis. This portfolio is to used to study about hotel sales growth from hotel booking data. <br><br>
+<img src="https://github.com/ktoh-repo/da-powerbi/assets/167388341/0552748b-5d2d-4fe4-9e77-ce2276dffa87" alt="drawing" width="400"/>
